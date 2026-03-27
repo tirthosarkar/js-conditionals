@@ -38,7 +38,6 @@ if (briyaniPrice < 300) {
   console.log('mama give me some biryani')
 }
 
-
 /**
  * if (condition){
  * execute code if the condition is false
@@ -53,3 +52,4 @@ if (weight < 20) {
 else {
   console.log('I will rent a rickshaw')
 }
+
