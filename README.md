@@ -12,7 +12,7 @@ For your new GitHub repository, **js-conditionals**, here are professional and c
 
 # JavaScript Conditionals 🚦
 
-Welcome to the **js-conditionals** repository\! This project is a dedicated resource for understanding how to control the flow of a JavaScript program using various conditional statements and logical operators.
+Welcome to the **js-conditionals** repository\! This project is a dedicated resource for understanding how to control the flow of a JavaScript program using various conditional statements and logical operators. n
 
 ## 📖 Table of Contents
 
